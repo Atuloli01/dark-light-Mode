@@ -1,4 +1,4 @@
-it is the  code where it will accept the invite from linkedin upto 5 invites at a time
+Linkedin BOt : it is the  code where it will accept the invite from linkedin upto 5 invites at a time
 using console 
 
 Array.from(
